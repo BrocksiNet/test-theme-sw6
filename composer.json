@@ -1,6 +1,6 @@
 {
-  "name": "swag/theme-skeleton",
-  "description": "Theme skeleton plugin",
+  "name": "brocksinet/test-theme",
+  "description": "Just a simple TestTheme",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {
@@ -11,8 +11,8 @@
   "extra": {
     "shopware-plugin-class": "TestTheme\\TestTheme",
     "label": {
-      "de-DE": "Theme TestTheme plugin",
-      "en-GB": "Theme TestTheme plugin"
+      "de-DE": "BrocksiNet TestTheme plugin",
+      "en-GB": "BrocksiNet TestTheme plugin"
     }
   }
 }
